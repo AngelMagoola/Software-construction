@@ -19,3 +19,10 @@ Code review is where code is scrutinized by fellow developers before it ever tou
 - Developers are exposed to new techniques that the original author might not have been aware of.<br>
 - Developers improve on their communication when they are explaining the code they wrote and why they wrote it in that particular way.<br>
 - When a developer is reviewing someone else’s code, they develop a “critical eye” for errors therefore helping them to recognize the flaws in their own work and in turn improve their own mistakes.<br>
+
+### Question 5: The Role of AI in Understanding Code
+Artificial Intelligence(AI) can be a powerful support tool in software construction, especially for students and beginners. AI tools can help explain code logic, suggest improvements, identify errors and provide examples that make complex concepts easier to understand. This reduces frustration and helps learners progress faster when they are stuck.
+
+However, AI should not replace the learning process. Writing code, debugging manually and thinking through problems are essential for developing real programming skills. Over-reliance on AI can limit problem-solving ability and reduce understanding of core concepts but with simple leaning on AI tools usage and understanding or using AI support to understand code is helpful without repacing learning.
+
+When used correctly, AI acts like a guide or assistant rather than a replacement for learning. It supports understanding, encourages curiosity, and helps developers learn better practices, while the responsibility of learning, thinking, and building remains with the student.
