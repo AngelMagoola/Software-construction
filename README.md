@@ -15,7 +15,7 @@ A situation where poor maintainability could cause serious problems is in a hosp
 
 Version control systems (VCS) like Git are essential for team-based software development. They provide structure, safety, and collaboration capabilities that transform  individual coding into organized, efficient teamwork.
 
-## Core Functions of Version Control in Teams.
+## Version Control in Teams ensures the following:
 
 ### 1. Complete Change History and Accountability.
 - Every change to the code is recorded :
@@ -45,16 +45,13 @@ Version control systems (VCS) like Git are essential for team-based software dev
 - Maintain tagged releases for production rollbacks
 - Experiment freely with fallback options
 
-
-## Advanced Collaboration Features.
-
 ### 5. Integrated Code Review Workflow.
-- Pull requests/merge requests provide structured review process
+- Pull requests requests provide structured review process
 - Reviewers can comment on specific code sections
 - Discussion happens in context of the changes
 - Knowledge sharing becomes part of the workflow
 
-### 6. Foundation for Automation (CI/CD).
+### 6. Foundation for Automation .
 - Every commit can trigger automated processes:
   - Running tests
   - Building artifacts
@@ -74,39 +71,9 @@ Version control systems (VCS) like Git are essential for team-based software dev
 - Enforce code ownership models through permissions
 - Understand code context through historical perspective
 
----
-
-## Consequences of Working Without Version Control.
-
-Teams without version control experience:
-
-1. **Chaotic file management** – Multiple conflicting copies of files
-2. **Lost work** – Accidental overwrites with no recovery
-3. **Uncertainty** – No clear history of changes or reasons
-4. **Serialized development** – Only one person can work safely at a time
-5. **Release anxiety** – Fear of breaking existing functionality
-6. **Knowledge silos** – Critical information known only to individuals
-
----
-
-## Best Practices for Team Version Control.
-
-1. **Commit Frequently** – Small, logical changes with descriptive messages
-2. **Use Branching Strategies** – Adopt models like Git Flow or GitHub Flow
-3. **Review Before Merging** – All changes should be reviewed by others
-4. **Write Meaningful Commit Messages** – Explain why, not just what
-5. **Tag Releases** – Clearly mark production versions
-6. **Protect Main Branch** – Require reviews and passing tests
-7. **Keep Branches Short-Lived** – Merge frequently to avoid divergence
-8. **Document Processes** – Establish team conventions and workflows
-
----
-
 ## Conclusion
 
 Version control is the collaborative foundation of modern software development. It enables teams to work together efficiently while maintaining code quality, historical context, and deployment safety. By managing change systematically, version control transforms software construction from individual programming into true team engineering. The discipline it brings to the development process is essential for building software that can evolve, scale, and maintain quality over time.
-
-
 
 ### Question 4:Describe how code reviews improve both software quality and developer's skill.
 Code review is where code is scrutinized by fellow developers before it ever touches the main code base. This elevates both the product because it ensures that software is not just functional but also sustainable. These are some of the reasons:<br>
