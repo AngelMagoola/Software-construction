@@ -12,14 +12,13 @@ A situation where poor maintainability could cause serious problems is in a hosp
 
 
 ### Quesion 3: Explain why version control is critical in team-based software development.
-# Why Version Control Is Critical in Team-Based Software Development.
 
-Version control systems (VCS) like Git are essential for team-based software development. They provide structure, safety, and collaboration capabilities that transform chaotic individual coding into organized, efficient teamwork.
+Version control systems (VCS) like Git are essential for team-based software development. They provide structure, safety, and collaboration capabilities that transform  individual coding into organized, efficient teamwork.
 
 ## Core Functions of Version Control in Teams.
 
 ### 1. Complete Change History and Accountability.
-- Every change to the codebase is recorded with metadata:
+- Every change to the code is recorded :
   - Who made the change
   - When it was made
   - What specifically was changed
