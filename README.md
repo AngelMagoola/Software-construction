@@ -3,21 +3,19 @@ UNDERSTANDING SOFTWARE CONSTRUCTION AND COLLABORATION
 ### Question 1: Difference between programming and software construction(with example)
 Programming the act of writing code so as to make a program to perform a certian task. It involves ensuring that code works correclty to produce the desired output<br>
 On the other hand , software consturction is the detailed process of creating software covering aspects of coding, verification, testing and debugging. Well as programming can be done by an individual, software construction requires a collaborative team of members each handlding a specific task.<br>
+
 #### One real world example
 In our year 1 semester one, we were tasked to create a pseudo company website by our lecturer<br>
 This project shows software construction because it involved more than just writing code. As a group, we planned the website, divided tasks, organized files and integrated everyone’s work into one system. We also tested pages and fixed issues so the site worked as a whole. This teamwork, planning and integration go beyond programming and reflect software construction.<br>
-### A situation where poor maintainability could cause serious problems.
+
+### Question 2: A situation where poor maintainability could cause serious problems.
 A situation where poor maintainability could cause serious problems is in a hospital patient management system. Where if the system is poorly maintained, the code may be outdated, poorly documented and difficult to modify. So, when a developer tries to update the system like to add a new feature or fix a bug, they may accidentally introduce errors. This could lead to incorrect patient records, delayed access to test results or even wrong medication information being displayed. Such errors can directly affect patient treatment cause medical mistakes and put lives at risk. This shows that poor maintainability can have severe real-world consequences especially in critical systems like healthcare.
 
-
-
 ### Quesion 3: Explain why version control is critical in team-based software development.
-
 Version control systems (VCS) like Git are essential for team-based software development. They provide structure, safety, and collaboration capabilities that transform  individual coding into organized, efficient teamwork.
 
-## Version Control in Teams ensures the following:
-
-### 1. Complete Change History and Accountability.
+#### Version Control in Teams ensures the following:
+#### 1. Complete Change History and Accountability.
 - Every change to the code is recorded :
   - Who made the change
   - When it was made
@@ -26,32 +24,32 @@ Version control systems (VCS) like Git are essential for team-based software dev
 - Creates an audit trail for debugging and compliance
 - Enables understanding of code evolution over time
 
-### 2. Parallel Development Through Branching
+#### 2. Parallel Development Through Branching
 - Developers work independently in isolated branches
 - Main branch remains stable and deployable
 - Feature branches allow experimentation without risk
 - Multiple features can be developed simultaneously
 - Structured merging process integrates completed work
 
-### 3. Conflict Detection and Resolution.
+#### 3. Conflict Detection and Resolution.
 - Automatically detects when multiple developers modify the same code
 - Highlights conflicting changes for manual resolution
 - Prevents accidental overwrites and lost work
 - Provides tools to compare versions and merge changes
 
-### 4. Safety Net Through Rollback Capability.
+#### 4. Safety Net Through Rollback Capability.
 - Instantly revert to previous versions when bugs are introduced
 - Restore accidentally deleted files or code
 - Maintain tagged releases for production rollbacks
 - Experiment freely with fallback options
 
-### 5. Integrated Code Review Workflow.
+#### 5. Integrated Code Review Workflow.
 - Pull requests requests provide structured review process
 - Reviewers can comment on specific code sections
 - Discussion happens in context of the changes
 - Knowledge sharing becomes part of the workflow
 
-### 6. Foundation for Automation .
+#### 6. Foundation for Automation .
 - Every commit can trigger automated processes:
   - Running tests
   - Building artifacts
@@ -59,19 +57,17 @@ Version control systems (VCS) like Git are essential for team-based software dev
 - Enables frequent, small, safe releases
 - Reduces manual processes and human error
 
-### 7. Support for Distributed Teams.
+#### 7. Support for Distributed Teams.
 - Each developer has complete repository copy
 - Work offline and synchronize later
 - No central server dependency during development
 - Teams can collaborate across time zones
 
-### 8. Clear Ownership and Attribution.
+#### 8. Clear Ownership and Attribution.
 - See who wrote each line of code
 - Track contributions for recognition and accountability
 - Enforce code ownership models through permissions
 - Understand code context through historical perspective
-
-## Conclusion
 
 Version control is the collaborative foundation of modern software development. It enables teams to work together efficiently while maintaining code quality, historical context, and deployment safety. By managing change systematically, version control transforms software construction from individual programming into true team engineering. The discipline it brings to the development process is essential for building software that can evolve, scale, and maintain quality over time.
 
