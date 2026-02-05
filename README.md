@@ -87,3 +87,10 @@ Artificial Intelligence(AI) can be a powerful support tool in software construct
 However, AI should not replace the learning process. Writing code, debugging manually and thinking through problems are essential for developing real programming skills. Over-reliance on AI can limit problem-solving ability and reduce understanding of core concepts but with simple leaning on AI tools usage and understanding or using AI support to understand code is helpful without repacing learning.
 
 When used correctly, AI acts like a guide or assistant rather than a replacement for learning. It supports understanding, encourages curiosity, and helps developers learn better practices, while the responsibility of learning, thinking, and building remains with the student.
+
+### Group 3 
+Angela Magoola B28735 M24B23/047<br>
+Carol Naddunga B30095 S24B23/038 <br>
+Warudata Natukunda B27536 M24B23/023<br>
+Shane Munanura B28332 M24B23/031<br>
+Anthony Ssetimba B28343 M24B23/033<br>
